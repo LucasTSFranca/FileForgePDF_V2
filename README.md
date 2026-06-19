@@ -86,10 +86,8 @@ No diretório raiz do projeto (onde está o arquivo `pom.xml`), execute o seguin
 ```bash
 mvn clean compile exec:java
 ```
-Ou utilize o executavel "FileForgePDF.exe", removendo assim a necessidade de comandos externos.
----
-
 ## 📖 Instruções de Uso
+OBS: É necessário instalar o jdk 25.
 
 1.  **Definir Destino:** Clique no botão **"Pasta Destino"** no canto superior direito para escolher o diretório onde os PDFs gerados serão salvos.
 2.  **Adicionar Arquivos:** Clique no botão **"Adicionar"** no painel da esquerda e selecione um ou mais arquivos suportados (`.txt`, `.docx`, `.csv`, `.html`, `.jpg`, `.png`, etc.).

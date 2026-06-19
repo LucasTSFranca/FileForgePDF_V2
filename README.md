@@ -86,7 +86,7 @@ No diretório raiz do projeto (onde está o arquivo `pom.xml`), execute o seguin
 ```bash
 mvn clean compile exec:java
 ```
-Ou utilize o instalador "FileForgePDF.exe", removendo assim a necessidade de comandos externos.
+Ou utilize o executavel "FileForgePDF.exe", removendo assim a necessidade de comandos externos.
 ---
 
 ## 📖 Instruções de Uso
